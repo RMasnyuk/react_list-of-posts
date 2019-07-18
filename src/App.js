@@ -21,7 +21,7 @@ class App extends Component {
   }
 
   filterPosts(event) {
-    const inputValue = event.target.value.trim();
+    const inputValue = event.target.value.trim().toLowerCase();
     this.setState({
       foundPost: this.state.posts.filter(post => {
         return post.title.includes(inputValue) || post.body.includes(inputValue)
