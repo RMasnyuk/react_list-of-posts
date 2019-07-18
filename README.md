@@ -1,1 +1,1 @@
-[Here you can see my React app!](https://rmasnyuk.github.io/react_list-of-posts/)
+[You can see my React app here!](https://rmasnyuk.github.io/react_list-of-posts/)
