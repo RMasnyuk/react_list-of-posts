@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_list-of-posts/static/css/main.55f9d8d7.chunk.css",
+    "main.js": "/react_list-of-posts/static/js/main.92f41ec5.chunk.js",
+    "main.js.map": "/react_list-of-posts/static/js/main.92f41ec5.chunk.js.map",
+    "runtime~main.js": "/react_list-of-posts/static/js/runtime~main.98cc979e.js",
+    "runtime~main.js.map": "/react_list-of-posts/static/js/runtime~main.98cc979e.js.map",
+    "static/js/2.18512419.chunk.js": "/react_list-of-posts/static/js/2.18512419.chunk.js",
+    "static/js/2.18512419.chunk.js.map": "/react_list-of-posts/static/js/2.18512419.chunk.js.map",
+    "index.html": "/react_list-of-posts/index.html",
+    "precache-manifest.1624f036429a2ae8e2c64b7e7095b9a3.js": "/react_list-of-posts/precache-manifest.1624f036429a2ae8e2c64b7e7095b9a3.js",
+    "service-worker.js": "/react_list-of-posts/service-worker.js",
+    "static/css/main.55f9d8d7.chunk.css.map": "/react_list-of-posts/static/css/main.55f9d8d7.chunk.css.map",
+    "static/media/App.css": "/react_list-of-posts/static/media/bg3.e5fb2d88.jpg",
+    "static/media/user.png": "/react_list-of-posts/static/media/user.471a1ad3.png"
+  }
+}
